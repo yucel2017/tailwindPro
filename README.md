@@ -1,3 +1,9 @@
+
+
+
+https://github.com/yucel2017/tailwindPro/assets/126460768/dea3d3f1-4d0a-4c45-804e-19cdb13bca25
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
